@@ -1,16 +1,21 @@
-## Hi there 👋
+# HALLOO >:D 
+<p> I'm Mariana, but u can call me Mari</p>
+<p> Actually studing Computer Science at UNIFIL. </p>
 
-<!--
-**marianaozao/marianaozao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+<p> Always looking for something new to learn. </p>
 
-Here are some ideas to get you started:
+- I love to play videogames 
+- I’m a huge cat lover. 
+- I used to be a dancer
+  
+### Tech & Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- JavaScript
+- HTML
+- CSS
+
+### Contact me:
+<p> Linkedin: </p>
+<p> Discord: </p>
