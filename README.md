@@ -1,6 +1,5 @@
 # HALLOO >:D 
-<p> I'm Mariana, but u can call me Mari</p>
-<p> Actually studing Computer Science at UNIFIL. </p>
+<p> I'm Mariana, but u can call me Mari, actually studing Computer Science at UNIFIL. </p>
 
 ### About me:
 <p> Always looking for something new to learn. </p>
