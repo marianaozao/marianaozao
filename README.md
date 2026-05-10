@@ -14,3 +14,6 @@
 - JavaScript
 - HTML
 - CSS
+
+## U CAN CONTACT ME!! 
+- I will love to learn new things w/ u
