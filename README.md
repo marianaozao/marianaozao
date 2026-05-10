@@ -16,5 +16,5 @@
 - CSS
 
 ### Contact me:
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/mariana-soriano-fernandes-2b710b3b4
 - Discord: 
